@@ -6,6 +6,7 @@ Summary: Utility for encrypting and decrypting files and streams
 URL: http://ccrypt.sf.net/
 License: GPL
 Group: File tools
+BuildRequires:	emacs-common
 
 %description
 ccrypt is a utility for encrypting and decrypting files and streams. It was
