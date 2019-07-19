@@ -1,7 +1,7 @@
 Name: ccrypt
-Version: 1.10
-Release: 4
-Source0: http://ccrypt.sourceforge.net/download/%{name}-%{version}.tar.gz
+Version:	1.11
+Release:	1
+Source0:	http://ccrypt.sourceforge.net/download/%{version}/%{name}-%{version}.tar.gz
 Summary: Utility for encrypting and decrypting files and streams
 URL: http://ccrypt.sf.net/
 License: GPL
