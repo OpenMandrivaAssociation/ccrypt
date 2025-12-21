@@ -6,6 +6,11 @@ Summary: Utility for encrypting and decrypting files and streams
 URL: https://ccrypt.sf.net/
 License: GPL
 Group: File tools
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	emacs
 
 %description
